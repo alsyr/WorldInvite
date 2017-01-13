@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res" >
+            <file
+                name="action_bar_button"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\action_bar_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="arrow"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="auth_badge"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\auth_badge.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="checkbox_bg"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\checkbox_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="crosshatch"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\crosshatch.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="default_user_icon"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\default_user_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="divider"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\divider.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="header"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\header.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_comment"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_comment.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_email"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_email.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_facebook"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_facebook.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_facebook_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_facebook_disabled.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_googleplus"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_googleplus.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_like"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_like.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_like_hi"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_like_hi.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_location.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_location_disabled.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location_pin"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_location_pin.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_notify"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_notify.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_notify_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_notify_disabled.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_share"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_share.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_sms"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_sms.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_twitter"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_twitter.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_twitter_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_twitter_disabled.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_view"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\icon_view.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_preferences"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\ic_menu_preferences.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\ic_menu_refresh.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="notification_banner"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\notification_banner.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="slate"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\slate.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="socialize_icon_white"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\socialize_icon_white.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tick_off"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\tick_off.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tick_on"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\tick_on.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbar_bg"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\toolbar_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbar_close"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\toolbar_close.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="user_icon"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-hdpi\user_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="action_bar_button"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\action_bar_button.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="arrow"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\arrow.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="auth_badge"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\auth_badge.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="crosshatch"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\crosshatch.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="default_user_icon"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\default_user_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="divider"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\divider.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="header"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\header.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_comment"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_comment.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_email"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_email.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_facebook"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_facebook.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_facebook_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_facebook_disabled.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_googleplus"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_googleplus.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_like"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_like.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_like_hi"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_like_hi.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_location.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_location_disabled.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location_pin"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_location_pin.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_notify"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_notify.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_notify_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_notify_disabled.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_share"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_share.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_sms"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_sms.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_twitter"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_twitter.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_twitter_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_twitter_disabled.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_view"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\icon_view.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_preferences"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\ic_menu_preferences.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\ic_menu_refresh.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="notification_banner"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\notification_banner.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="slate"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\slate.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="socialize_icon_white"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\socialize_icon_white.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tick_off"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\tick_off.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="tick_on"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\tick_on.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbar_bg"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\toolbar_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbar_close"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\toolbar_close.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="user_icon"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-mdpi\user_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="action_bar_button"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\action_bar_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="arrow"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\arrow.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="auth_badge"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\auth_badge.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="crosshatch"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\crosshatch.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="default_user_icon"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\default_user_icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="divider"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\divider.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="header"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\header.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_comment"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_comment.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_email"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_email.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_facebook"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_facebook.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_facebook_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_facebook_disabled.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_googleplus"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_googleplus.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_like"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_like.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_like_hi"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_like_hi.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_location.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_location_disabled.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_location_pin"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_location_pin.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_notify"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_notify.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_notify_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_notify_disabled.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_share"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_share.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_sms"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_sms.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_twitter"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_twitter.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_twitter_disabled"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_twitter_disabled.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_view"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\icon_view.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_preferences"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\ic_menu_preferences.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_refresh"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\ic_menu_refresh.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="notification_banner"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\notification_banner.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="share_badge"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\share_badge.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="slate"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\slate.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="socialize_icon_white"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\socialize_icon_white.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tick_off"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\tick_off.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="tick_on"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\tick_on.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbar_bg"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\toolbar_bg.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="toolbar_close"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\toolbar_close.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="user_icon"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\res\drawable-xhdpi\user_icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+        </source>
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\build\generated\res\rs\release" />
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\socialize-sdk\build-types\release\res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\res" >
+            <file
+                name="st_share_dialog_list"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\res\layout\st_share_dialog_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="st_share_dialog_row"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\res\layout\st_share_dialog_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="st_share_dialog_row"
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\res\layout-v11\st_share_dialog_row.xml"
+                qualifiers="v11"
+                type="layout" />
+            <file
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\res\values\themes.xml"
+                qualifiers="" >
+
+                <style
+                    name="STAppLabelTheme"
+                    parent="@android:style/TextAppearance.Small" />
+
+                <style
+                    name="STDialogTheme"
+                    parent="@android:style/Theme.Light" />
+            </file>
+            <file
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\res\values-v11\themes.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="STAppLabelTheme"
+                    parent="@android:style/TextAppearance.Small.Inverse" />
+
+                <style
+                    name="STDialogTheme"
+                    parent="@android:style/Theme.Holo.Light.Dialog" />
+            </file>
+            <file
+                path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\res\values-v14\themes.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="STAppLabelTheme"
+                    parent="@android:style/TextAppearance.Small.Inverse" />
+
+                <style
+                    name="STDialogTheme"
+                    parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+            </file>
+        </source>
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\build\generated\res\rs\debug" />
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\loopy-sdk-android\build-types\debug\res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\facebook-android-sdk\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\trains\Documents\GitHub\WorldInvite\WorldInvite\facebook-android-sdk\build-types\debug\assets" />
+    </dataSet>
+
+</merger>

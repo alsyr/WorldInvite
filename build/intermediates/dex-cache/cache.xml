@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1fc463fa1eac11eefe6b23f3ece6264c2450d30b.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/classes-4554efbd06ce3fb7c724c06af5d5845a5b66dc4b.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/classes-b7fc2535bccdbd91d61c61a8a96eb33a49712f04.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/WorldInvite/socialize-sdk/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cc444f19e1e2254c046f28c90b7cad9662663789"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/android-support-v4-2757521d33e6226206ef7b89dacead463e588151.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/WorldInvite/facebook-android-sdk/unspecified/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/classes-9de6477e046bfe209bdac776c03d1e409b1542d3.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/WorldInvite/loopy-sdk-android/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1aa03e791a6bab57bf6fd87ce2f7a37ad0f85ea3"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/classes-9e68dea14714d50a61aa9a53fe30bf15f56b1c50.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/WorldInvite/android-ioc/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="83c69a67ee3c422b6440c5a2dc5800d30cebb4d3"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-774d46bfb7a66e08458aa4c52c9824996207112d.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/WorldInvite/facebook-android-sdk/unspecified/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/classes-c3d6ce0cf42f4c79000fab9a182482849946bd7b.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/commons-codec-1.4-7495eb1153b1df90d8caccd4f116691c56bd2a86.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/WorldInvite/socialize-sdk/unspecified/libs/commons-codec-1.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/classes-797b4f381d9484e304ee4945d5f12b7bfa7df45f.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/WorldInvite/facebook-android-sdk/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="01acf26581356517e40c8dc778099998a9827358"/>
+    <item
+        dex="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/pre-dexed/debug/classes-5e4804ebdc294c410483a4c4666b8a4d93557d44.jar"
+        jar="/Users/lche/WorldInvite/WorldInvite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+
+</pre-dex-items>

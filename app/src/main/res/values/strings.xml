@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WorldInvite</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_all_user_activities">AllUserActivitiesActivity</string>
+    <string name="title_activity_maps">ViewActivityActivity</string>
+    <string name="title_activity_menu">ViewActivityActivity</string>
+    <string name="title_activity_view">ViewActivityActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_new">NewActivityActivity</string>
+    <string name="title_activity_location_select">LocationSelectActivity</string>
+
+</resources>

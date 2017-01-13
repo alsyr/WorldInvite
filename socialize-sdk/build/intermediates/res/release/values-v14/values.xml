@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/trains/Documents/GitHub/WorldInvite/WorldInvite/socialize-sdk/build/intermediates/exploded-aar/WorldInvite/loopy-sdk-android/unspecified/res/values-v14/values.xml -->
+    <eat-comment />
+
+    <style name="STAppLabelTheme" parent="@android:style/TextAppearance.Small.Inverse" />
+
+    <style name="STDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+
+</resources>
